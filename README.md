@@ -1,6 +1,6 @@
 # Desafio de projeto sobre Git e Github
 
-# <emoji> Linux
+# Linux
 
 <h2 style="text-align=center"> O que é um sistema operacional? </h2>
 
@@ -22,8 +22,6 @@
 
 <h2> Linux Torvalds </h2>
 
-<!-- IMAGEM -->
-
 <p> Linus Benedict Torvalds é um engenheiro de software finlandês-americano
 que é o criador e, historicamente, o principal desenvolvedor do kernel Linux,
 utilizado por distribuições Linux e outros sistemas operativos como o Android.
@@ -40,45 +38,31 @@ de registo e planeamento de mergulho submarino Subsurface. </p>
 
 <h3> O que é a distribuição? </h3>
 
-<!-- IMAGEM -->
-
 <p> Distribuição Linux é um sistema operacional Unix-like incluindo o kernel Linux e outros softwares de aplicação, formando um conjunto. Distribuições (ou "distros") mantidas por organizações comerciais, como a Red Hat, Ubuntu, SUSE e Mandriva, bem como projetos comunitários como Debian e Gentoo montam e testam seus conjuntos de software antes de disponibilizá-los ao público. </p>
 
 <h2> Apresentação de algumas distros </h2>
 
 <h3> Ubuntu </h3>
 
-<!-- IMAGEM -->
-
 <p> Para PCs e laptops poderosos, o principal Ubuntu executando o GNOME é perfeito. Com a introdução do Snaps, a instalação de aplicativos se tornou mais confortável. Ele também possui uma comunidade de usuários próspera e fóruns onde você pode encontrar a resposta para qualquer problema. No geral, o Ubuntu é uma distribuição Linux bastante capaz que permite realizar várias tarefas e concluir seu trabalho com eficiência. </p>
 
-<h3> Debain </h3>
-
-<!-- IMAGEM -->
+<h3> Debian </h3>
 
 <p> O ramo Debian Testing possui uma vasta coleção de pacotes que têm reputação de serem regularmente testados, atualizados e sólidos. Essa estabilidade permite que um programador cuide do desenvolvimento com tranquilidade. No entanto, deve-se ter em mente que o Debian é recomendado apenas para programadores com experiência em trabalhar com Linux. Caso você seja iniciante, escolha a versão Ubuntu LTS ou outra distribuição estável do Linux conforme sua preferência. </p>
 
 <h3> Linux Mint </h3>
 
-<!-- IMAGEM -->
-
 <p> O Linux Mint é uma das distribuições de mais rápido crescimento. Ele continua desafiando o Ubuntu quando se trata de popularidade. Além disso, o Linux Mint se estabeleceu como um substituto perfeito para o sistema operacional Windows, com sua experiência de desktop quase perfeita. </p>
 
 <h3> Kali Linux </h3>
-
-<!-- IMAGEM -->
 
 <p> Quando se trata explicitamente das melhores  distribuições Linux para fins de hackers éticos, não há absolutamente nenhuma concorrência para o Kali Linux . Ele vem com centenas de ferramentas úteis que pertencem a diferentes categorias, como análises de vulnerabilidade, ataques sem fio, aplicativos da Web, ferramentas de exploração, teste de estresse, ferramentas forenses etc. Com base no ramo de testes do Debian, a maioria dos pacotes da distribuição são importados do Debian repos. </p>
 
 <h3> Manjaro </h3>
 
-<!-- IMAGEM -->
-
 <p> Os últimos dados apontam o Manjaro Linux como a melhor opção para jogos. Ter o Steam pré-instalado e um excelente suporte de hardware é um ótimo ponto positivo do lado de Manjaro. O Manjaro também é fornecido com uma ferramenta de detecção de hardware para tornar clara a situação geral dos drivers e gráficos. Se isso parecer um aborrecimento, deixe-me dizer-lhe que é fornecido com drivers gráficos pré-instalados para placas Nvidia e AMD. A distribuição também fornece uma maneira fácil de alternar entre os kernels do Linux para garantir um melhor suporte de hardware. 
 
 <h3> Zorin OS </h3>
-
-<!-- IMAGEM -->
 
 <p> Sem dúvida, Zorin OS é uma distro Linux de aspecto sexy que consegue proporcionar uma boa experiência ao utilizador mesmo com a sua edição lite.
 
@@ -86,20 +70,26 @@ Pode experimentar tanto a versão completa como a edição lite (com o Xfce desk
 
 <h3> Raspberry Pi </h3>
 
-<!-- IMAGEM -->
-
 <p> Existem muitos sistemas operacionais Linux que você pode instalar em sua pequena máquina, mas eu, pessoalmente, continuo voltando ao Raspbian. É o sistema operacional oficial da Raspberry Pi Foundation, perfeito para iniciantes e usuários experientes. Você pode instalá-lo gravando-o diretamente no cartão SD ou usar o instalador NOOBS da própria Fundação. Baseado no sistema operacional Debian, o Raspbian vem com muitos aplicativos úteis pré-instalados que garantem que você possa começar imediatamente. </p>
 
-<h3> Ambientes gráficos </h3>
-
-<!-- IMAGEM -->
+<h2> Ambientes gráficos </h2>
 
 <p> Outra maneira que o usuário interage com o Linux. São também conhecidos como gerenciadores de desktop. Existem várias interfaces gráficas como a KDE, Unity, Gnome, dentre outras.
 
 O Linux também possui um padrão para ambiente gráfico. Os sistemas Unix mais antigos são baseados somente em caracteres, mas hoje praticamente qualquer sistema Unix, incluindo o Linux, dispõe de um sistema gráfico de janelas que é chamado de X Windows (que também podem ser chamadas de Ambiente x).
 
+<h2> Referências </h2>
 
+[O que é um sistema operacional?](https://tecnoblog.net/303055/o-que-e-um-sistema-operacional/)
 
+[O que é Linux?](https://www.redhat.com/pt-br/topics/linux/what-is-linux)
 
+[Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
+[Tux](https://en.wikipedia.org/wiki/Tux_(mascot))
 
+[11 Melhores distribuições Linux para 2021](https://sempreupdate.com.br/11-melhores-distribuicoes-de-linux-para-2021/)
+
+[Here are the Most Beautiful Linux Distribuitions](https://itsfoss.com/beautiful-linux-distributions/)
+
+[Noções de sistema operacional](https://materiasparaconcursos.com.br/2021/02/02/nocoes-de-sistema-operacional-ambiente-linux/)
