@@ -38,13 +38,13 @@ de registo e planeamento de mergulho submarino Subsurface. </p>
 
 <h3> O que é a distribuição? </h3>
 
-<p> Distribuição Linux é um sistema operacional Unix-like incluindo o kernel Linux e outros softwares de aplicação, formando um conjunto. Distribuições (ou "distros") mantidas por organizações comerciais, como a Red Hat, Ubuntu, SUSE e Mandriva, bem como projetos comunitários como Debian e Gentoo montam e testam seus conjuntos de software antes de disponibilizá-los ao público. </p>
+<p> Distribuição Linux é um sistema operacional Unix-like incluindo o kernel Linux e outros softwares de aplicação, formando um pacote. Distribuições (ou "distros") mantidas por organizações comerciais, como a Red Hat, Ubuntu, SUSE e Mandriva, bem como projetos comunitários como Debian e Gentoo montam e testam seus conjuntos de software antes de disponibilizá-los ao público. </p>
 
 <h2> Apresentação de algumas distros </h2>
 
 <h3> Ubuntu </h3>
 
-<p> Para PCs e laptops poderosos, o principal Ubuntu executando o GNOME é perfeito. Com a introdução do Snaps, a instalação de aplicativos se tornou mais confortável. Ele também possui uma comunidade de usuários próspera e fóruns onde você pode encontrar a resposta para qualquer problema. No geral, o Ubuntu é uma distribuição Linux bastante capaz que permite realizar várias tarefas e concluir seu trabalho com eficiência. </p>
+<p> Para PCs e laptops poderosos, o principal Ubuntu executando o GNOME é perfeito. Com a introdução do Snaps, a instalação de aplicativos se tornou mais confortável. Ele também possui uma comunidade de usuários próspera e fóruns onde você pode encontrar a resposta para qualquer problema. No geral, o Ubuntu é uma distribuição Linux bastante estável que permite realizar várias tarefas e concluir seu trabalho com eficiência. </p>
 
 <h3> Debian </h3>
 
