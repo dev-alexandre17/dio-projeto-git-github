@@ -1,8 +1,6 @@
-# Desafio de projeto sobre Git e Github
+<h1> Linux </h1>
 
-# Linux
-
-<h2 style="text-align=center"> O que é um sistema operacional? </h2>
+<h2 style="text-align=center"> :computer: O que é um sistema operacional? </h2>
 
 <img src="https://cdn.pixabay.com/photo/2017/01/20/17/21/operating-system-1995426_960_720.png" alt="sistema-operacional">
 
@@ -10,7 +8,7 @@
 
 <p> O sistema operacional introduz uma “camada de abstração” entre o hardware e o usuário, que transforma comandos no mouso ou teclado e solicitações do sistema, como gerenciamento de recursos (CPU, memória RAM), em linguagem de máquina, enviando instruções ao processador. Este último os traduz para código binário, executa os comandos e envia as respostas como informações que aparecem na sua tela. </p>
 
-<h2> O que é Linux? </h2>
+<h2> 🐧 O que é Linux? </h2>
 
 <img src="https://cdn.pixabay.com/photo/2018/04/23/14/43/ubuntu-3344434_960_720.png" alt= "linux-ubuntu" widht="300px" height="300px">
 
@@ -20,7 +18,7 @@
 
 <p> O sistema operacional inclui alguns componentes básicos comuns, como as ferramentas GNU, entre outros. Com essas ferramentas, o usuário pode gerenciar os recursos do kernel, instalar outros softwares, definir configurações de segurança e desempenho e muito mais. Esse pacote compõe um sistema operacional funcional. Como o Linux é um sistema operacional open source, as combinações de softwares podem variar de acordo com a distribuição dessa solução. </p>
 
-<h2> Linux Torvalds </h2>
+<h2> 👨‍💻 Linux Torvalds </h2>
 
 <p> Linus Benedict Torvalds é um engenheiro de software finlandês-americano
 que é o criador e, historicamente, o principal desenvolvedor do kernel Linux,
@@ -78,18 +76,18 @@ Pode experimentar tanto a versão completa como a edição lite (com o Xfce desk
 
 O Linux também possui um padrão para ambiente gráfico. Os sistemas Unix mais antigos são baseados somente em caracteres, mas hoje praticamente qualquer sistema Unix, incluindo o Linux, dispõe de um sistema gráfico de janelas que é chamado de X Windows (que também podem ser chamadas de Ambiente x).
 
-<h2> Referências </h2>
+<h2> 🔗 Referências </h2>
 
-[O que é um sistema operacional?](https://tecnoblog.net/303055/o-que-e-um-sistema-operacional/)
+:paperclip: [O que é um sistema operacional?](https://tecnoblog.net/303055/o-que-e-um-sistema-operacional/)
 
-[O que é Linux?](https://www.redhat.com/pt-br/topics/linux/what-is-linux)
+:paperclip: [O que é Linux?](https://www.redhat.com/pt-br/topics/linux/what-is-linux)
 
-[Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+:paperclip: [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
-[Tux](https://en.wikipedia.org/wiki/Tux_(mascot))
+:paperclip: [Tux](https://en.wikipedia.org/wiki/Tux_(mascot))
 
-[11 Melhores distribuições Linux para 2021](https://sempreupdate.com.br/11-melhores-distribuicoes-de-linux-para-2021/)
+:paperclip: [11 Melhores distribuições Linux para 2021](https://sempreupdate.com.br/11-melhores-distribuicoes-de-linux-para-2021/)
 
-[Here are the Most Beautiful Linux Distribuitions](https://itsfoss.com/beautiful-linux-distributions/)
+ :paperclip: [Here are the Most Beautiful Linux Distribuitions](https://itsfoss.com/beautiful-linux-distributions/)
 
-[Noções de sistema operacional](https://materiasparaconcursos.com.br/2021/02/02/nocoes-de-sistema-operacional-ambiente-linux/)
+ :paperclip: [Noções de sistema operacional](https://materiasparaconcursos.com.br/2021/02/02/nocoes-de-sistema-operacional-ambiente-linux/)
