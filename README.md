@@ -6,7 +6,7 @@
 
 <p> É um software ou conjunto de softwares cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros, estabelecendo a interface entre o computador e o usuário. </p>
 
-<p> O sistema operacional introduz uma “camada de abstração” entre o hardware e o usuário, que transforma comandos no mouso ou teclado e solicitações do sistema, como gerenciamento de recursos (CPU, memória RAM), em linguagem de máquina, enviando instruções ao processador. Este último os traduz para código binário, executa os comandos e envia as respostas como informações que aparecem na sua tela. </p>
+<p> O sistema operacional introduz uma “camada de abstração” entre o hardware e o usuário, que transforma comandos no mouse ou teclado e solicitações do sistema, como gerenciamento de recursos (CPU, memória RAM), em linguagem de máquina, enviando instruções ao processador. Este último os traduz para código binário, executa os comandos e envia as respostas como informações que aparecem na sua tela. </p>
 
 <h2> 🐧 O que é Linux? </h2>
 
